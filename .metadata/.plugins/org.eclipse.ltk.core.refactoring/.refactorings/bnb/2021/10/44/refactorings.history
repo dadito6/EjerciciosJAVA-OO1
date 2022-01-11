@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;timeLaps.java&apos; to &apos;time/src/main/java/tiempo.time&apos;&#x0D;&#x0A;- Original project: &apos;bnb&apos;&#x0D;&#x0A;- Destination element: &apos;time/src/main/java/tiempo.time&apos;&#x0D;&#x0A;- Original element: &apos;alquiler.bnb.timeLaps.java&apos;" description="Copy compilation unit" destination="=time/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;tiempo.time" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;alquiler.bnb{timeLaps.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1635722321077" units="1" version="1.0"/>
+</session>

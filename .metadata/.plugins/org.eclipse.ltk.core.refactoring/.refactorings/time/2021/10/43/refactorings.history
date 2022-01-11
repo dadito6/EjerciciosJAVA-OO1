@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;timeLaps.java&apos; to &apos;bnb/src/main/java/alquiler.bnb&apos;&#x0D;&#x0A;- Original project: &apos;time&apos;&#x0D;&#x0A;- Destination element: &apos;bnb/src/main/java/alquiler.bnb&apos;&#x0D;&#x0A;- Original element: &apos;tiempo.time.timeLaps.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=bnb/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;alquiler.bnb" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;tiempo.time{timeLaps.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1634939861014" units="1" version="1.0"/>
+</session>

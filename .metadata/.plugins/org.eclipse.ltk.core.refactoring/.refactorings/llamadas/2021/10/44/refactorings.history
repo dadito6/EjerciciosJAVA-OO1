@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Llamadas.llamadas.LLamada&apos; to &apos;LLamadaTest&apos;&#x0D;&#x0A;- Original project: &apos;llamadas&apos;&#x0D;&#x0A;- Original element: &apos;Llamadas.llamadas.LLamada&apos;&#x0D;&#x0A;- Renamed element: &apos;Llamadas.llamadas.LLamadaTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LLamada&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Llamadas.llamadas{LLamada.java[LLamada" matchStrategy="1" name="LLamadaTest" qualified="false" references="true" similarDeclarations="false" stamp="1635629050126" textual="false" version="1.0"/>
+</session>

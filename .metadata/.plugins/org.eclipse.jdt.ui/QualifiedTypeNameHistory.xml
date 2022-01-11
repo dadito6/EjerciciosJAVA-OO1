@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="ejercicio3.Grafo"/>
+    <fullyQualifiedTypeName name="ejercicio3.Vertice"/>
+    <fullyQualifiedTypeName name="ejercicio3.Arista"/>
+    <fullyQualifiedTypeName name="balanza.ticket"/>
+    <fullyQualifiedTypeName name="balanza.producto"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="balanza.balanza"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="ej8.distribuidora.Distribuidora"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="ej8.distribuidora.Consumo"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ej10_jobScheduler.JobDescription"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ej10_jobScheduler.JobScheduler"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ej10_jobScheduler.FIFO"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ej10_jobScheduler.LIFO"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ej10_jobScheduler.PrioritySelector"/>
+    <fullyQualifiedTypeName name="ar.edu.unlp.info.oo1.ej10_jobScheduler.EffortSelector"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="ej8.distribuidora.Usuario"/>
+    <fullyQualifiedTypeName name="ej8.distribuidora.Factura"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="jdk.jfr.Period"/>
+    <fullyQualifiedTypeName name="java.time.Period"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="tiempo.time.timeLaps"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.example.restservice.Greeting"/>
+</qualifiedTypeNameHistroy>
